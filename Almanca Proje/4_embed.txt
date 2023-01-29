@@ -1,0 +1,130 @@
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/RJsU5Fn.png';var img2 = 'https://imgur.com/3YRYRie.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/RJsU5Fn.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/li11YbD.png';var img2 = 'https://imgur.com/F2ZeE7z.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/li11YbD.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/oBCWspL.png';var img2 = 'https://imgur.com/erEqkIh.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/oBCWspL.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/vRgeevl.png';var img2 = 'https://imgur.com/2zNtmjo.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/vRgeevl.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/K2ftrxZ.png';var img2 = 'https://imgur.com/y053Y85.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/K2ftrxZ.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/FlXcAiW.png';var img2 = 'https://imgur.com/frrx1pb.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/FlXcAiW.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/voR9CfF.png';var img2 = 'https://imgur.com/BchYj1u.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/voR9CfF.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/sGchzRI.png';var img2 = 'https://imgur.com/4lq0XzH.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/sGchzRI.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/EIBiwPd.png';var img2 = 'https://imgur.com/1isFwIj.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/EIBiwPd.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/eNOUyLJ.png';var img2 = 'https://imgur.com/JVfsZ8b.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/eNOUyLJ.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/85wmzel.png';var img2 = 'https://imgur.com/XnBpgim.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/85wmzel.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/Rz3Qh2M.png';var img2 = 'https://imgur.com/FXWAm5C.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/Rz3Qh2M.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/08suaLU.png';var img2 = 'https://imgur.com/cu0o2sB.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/08suaLU.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/OrHfSaM.png';var img2 = 'https://imgur.com/8R9OBJr.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/OrHfSaM.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/y0E7ts2.png';var img2 = 'https://imgur.com/Yftlvyl.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/y0E7ts2.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/Ah5Y34b.png';var img2 = 'https://imgur.com/4iNCYPl.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/Ah5Y34b.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/DtSGlER.png';var img2 = 'https://imgur.com/t2Fb8lv.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/DtSGlER.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/D5x1tBk.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/9r0O1L0.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/1qoaQiW.png';var img2 = 'https://imgur.com/TSP0jDA.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/1qoaQiW.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/yJ2bxJG.png';var img2 = 'https://imgur.com/9IQBk3n.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/yJ2bxJG.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/SKjYU8O.png';var img2 = 'https://imgur.com/RvitB6D.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/SKjYU8O.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/reeinSO.png';var img2 = 'https://imgur.com/6hZbcBt.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/reeinSO.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/vWywuZb.png';var img2 = 'https://imgur.com/Wmcy4eg.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/vWywuZb.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/OlVZfEP.png';var img2 = 'https://imgur.com/5FytpkV.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/OlVZfEP.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/o3XMBBF.png';var img2 = 'https://imgur.com/WeSpqP4.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/o3XMBBF.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/IZZxf8z.png';var img2 = 'https://imgur.com/lGefi13.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/IZZxf8z.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/2wiXQHE.png';var img2 = 'https://imgur.com/p7hy1dv.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/2wiXQHE.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/xGCUQnT.png';var img2 = 'https://imgur.com/5WaerLK.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/xGCUQnT.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/wczf2gY.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/mcyq53Q.png';var img2 = 'https://imgur.com/Rs9wZki.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/mcyq53Q.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/EroTS1S.png';var img2 = 'https://imgur.com/CyTgoFV.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/EroTS1S.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/vn9P6UF.png';var img2 = 'https://imgur.com/e6lU2we.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/vn9P6UF.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/YgPxmTA.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/KUrDJC8.png';var img2 = 'https://imgur.com/4OVTzDK.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/KUrDJC8.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/VM2YlpT.png';var img2 = 'https://imgur.com/4yfqxtD.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/VM2YlpT.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/Hw6Jo1g.png';var img2 = 'https://imgur.com/kfldw0C.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/Hw6Jo1g.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/4xQUwbY.png';var img2 = 'https://imgur.com/CYi5w5h.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/4xQUwbY.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/MTNgWWj.png';var img2 = 'https://imgur.com/khfkf2w.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/MTNgWWj.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/fb4kPF7.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/0sLAtmH.png';var img2 = 'https://imgur.com/8BYJDBh.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/0sLAtmH.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/AXfOlVE.png';var img2 = 'https://imgur.com/DhxpbPv.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/AXfOlVE.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/hHYowdL.png';var img2 = 'https://imgur.com/soEibD9.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/hHYowdL.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/qNbxkI6.png';var img2 = 'https://imgur.com/iwa3xf7.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/qNbxkI6.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/fwMwQh1.png';var img2 = 'https://imgur.com/MPYqVUx.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/fwMwQh1.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/L42RCGS.png';var img2 = 'https://imgur.com/Rd4dEhJ.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/L42RCGS.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/u6N4WR6.png';var img2 = 'https://imgur.com/3Ndo5F0.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/u6N4WR6.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/gpVr9Oi.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/HmS0flh.png';var img2 = 'https://imgur.com/mK2QmOP.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/HmS0flh.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/MT4AWsb.png';var img2 = 'https://imgur.com/1xImZpv.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/MT4AWsb.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/sKu83As.png';var img2 = 'https://imgur.com/UoRFoK5.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/sKu83As.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/X5dcdMB.png';var img2 = 'https://imgur.com/36JtC8W.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/X5dcdMB.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/uTthhEx.png';var img2 = 'https://imgur.com/z3nDbrr.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/uTthhEx.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/ejfmKn1.png';var img2 = 'https://imgur.com/TOJ3Pxb.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/ejfmKn1.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/ag7I6Gr.png';var img2 = 'https://imgur.com/HMu1dFl.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/ag7I6Gr.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/tZDGve2.png';var img2 = 'https://imgur.com/IC2x0EE.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/tZDGve2.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/lwjTshh.png';var img2 = 'https://imgur.com/JkG17QD.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/lwjTshh.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/0FLeFSC.png';var img2 = 'https://imgur.com/EwmkJE8.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/0FLeFSC.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><script>function toggleImage(){var img1 ='https://imgur.com/MnQ9bJF.png';var img2 = 'https://imgur.com/t3ElQxk.png';var imgElement = document.getElementById('toggleImage');imgElement.src = (imgElement.src === img1)? img2 : img1;}</script><img src='https://imgur.com/MnQ9bJF.png' class ='sized' id='toggleImage' width='300' height='300' onclick='toggleImage();'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/wJrAVbq.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/BmlSoRB.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/dtLqTzl.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/KlXXS5k.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/Luop8FZ.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
+<style>img.sized{ height: 100%;width: 100%;}</style><img src='https://imgur.com/Csjc7Vx.png' class ='sized' id='stoggleImage' width='300' height='300'/>
+
